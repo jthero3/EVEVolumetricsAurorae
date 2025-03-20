@@ -1,4 +1,3 @@
-=============================================================================
 # Eve Volumetric Aurorae
 
 This Mod Adds in Aurorae to the Blackracks Volumetric Clouds. There are configs 
