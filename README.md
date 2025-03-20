@@ -7,8 +7,14 @@ for both Stock bodies, and OPM Bodies.
 # Requirements:
 
 * EVE Volumetrics
-* RECOMMENDED: Deferred Rendering
 
+# Recommended:
+
+* Deferred Rendering
+
+# Installation:
+
+* Just drop the GameData Folder into your KSP GameData.
 
 # Changelog:
 
