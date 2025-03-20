@@ -1,4 +1,4 @@
-# Eve Volumetric Aurorae
+# EVE Volumetric Aurorae
 
 This Mod Adds in Aurorae to the Blackracks Volumetric Clouds. There are configs 
 for both Stock bodies, and OPM Bodies.
