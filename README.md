@@ -48,3 +48,6 @@ for both Stock bodies, and OPM Bodies.
 # Changelog:
 
 1.0.0 - Initial Release
+
+# License
+Configs in this mod are Distributed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Textures are All Rights Reserved.
